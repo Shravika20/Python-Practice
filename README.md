@@ -29,7 +29,6 @@ To improve programming skills and build a strong foundation in Python.
 ## Programs Added
 ### Basics
 - Even Odd Number
-
+- Palindrome Checker
 ## Author
-
 K Shravika
