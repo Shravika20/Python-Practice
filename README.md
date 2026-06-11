@@ -26,6 +26,9 @@ This repository contains Python programs and coding exercises that help me stren
 ## Goal
 
 To improve programming skills and build a strong foundation in Python.
+## Programs Added
+### Basics
+- Even Odd Number
 
 ## Author
 
