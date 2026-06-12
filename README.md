@@ -30,5 +30,7 @@ To improve programming skills and build a strong foundation in Python.
 ### Basics
 - Even Odd Number
 - Palindrome Checker
+- Factorial Calculator
+- Prime Number Checker 
 ## Author
 K Shravika
