@@ -32,5 +32,7 @@ To improve programming skills and build a strong foundation in Python.
 - Palindrome Checker
 - Factorial Calculator
 - Prime Number Checker 
+### VariablesandDatatypes
+- Variables and Datatypes
 ## Author
 K Shravika
