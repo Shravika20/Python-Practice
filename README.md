@@ -34,5 +34,7 @@ To improve programming skills and build a strong foundation in Python.
 - Prime Number Checker 
 ### VariablesandDatatypes
 - Variables and Datatypes
+### Strings
+- Count Vowels in a String
 ## Author
 K Shravika
