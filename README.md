@@ -36,5 +36,7 @@ To improve programming skills and build a strong foundation in Python.
 - Variables and Datatypes
 ### Strings
 - Count Vowels in a String
+### Conditional Statements 
+- Grade Caculator 
 ## Author
 K Shravika
