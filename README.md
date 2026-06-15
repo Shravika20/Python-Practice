@@ -39,5 +39,8 @@ To improve programming skills and build a strong foundation in Python.
 ### Conditional Statements 
 - Grade Caculator 
 - LargestOfThree
+### Loops
+- Multiplication Table
+- Fibonacci Series
 ## Author
 K Shravika
