@@ -1,0 +1,6 @@
+a = int(input("Enter first number: "))
+b = int(input("Enter second number: "))
+print("Equal:", a == b)
+print("Not Equal:", a != b)
+print("Greater Than:", a > b)
+print("Less Than:", a < b)
