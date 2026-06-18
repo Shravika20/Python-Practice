@@ -51,5 +51,11 @@ To improve programming skills and build a strong foundation in Python.
 ### Lists
 - Largest Element in a List
 - Sum of List Elements
+### Tuples
+- Tuple Demo
+### Dictionaries
+- Dictionary Demo
+### Sets
+- Set Demo
 ## Author
 K Shravika
