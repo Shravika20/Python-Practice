@@ -57,5 +57,14 @@ To improve programming skills and build a strong foundation in Python.
 - Dictionary Demo
 ### Sets
 - Set Demo
+### Object Oriented Programming
+- Student Class
+- Employee Inheritance Example
+### Exception Handling
+- Division Exception Handling
+- Custom Age Exception
+### File Handling
+- Write to File
+- Read from File
 ## Author
 K Shravika
