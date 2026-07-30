@@ -48,6 +48,7 @@ To improve programming skills and build a strong foundation in Python.
 ### Functions
 - Calculator Using Functions
 - Maximum Number Using Function
+- Factorial Using Function
 ### Lists
 - Largest Element in a List
 - Sum of List Elements
