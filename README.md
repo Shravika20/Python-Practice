@@ -66,5 +66,7 @@ To improve programming skills and build a strong foundation in Python.
 ### File Handling
 - Write to File
 - Read from File
+### Searching
+- Linear Search
 ## Author
 K Shravika
