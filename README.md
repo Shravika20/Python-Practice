@@ -57,6 +57,7 @@ To improve programming skills and build a strong foundation in Python.
 - Tuple Demo
 ### Dictionaries
 - Dictionary Demo
+- Student Marks Management
 ### Sets
 - Set Demo
 ### Object Oriented Programming
