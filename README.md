@@ -60,6 +60,7 @@ To improve programming skills and build a strong foundation in Python.
 - Student Marks Management
 ### Sets
 - Set Demo
+- Basic Set Operations
 ### Object Oriented Programming
 - Student Class
 - Employee Inheritance Example
