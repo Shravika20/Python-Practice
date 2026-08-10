@@ -73,5 +73,6 @@ To improve programming skills and build a strong foundation in Python.
 - Read from File
 ### Searching
 - Linear Search
+- Binary Search
 ## Author
 K Shravika
