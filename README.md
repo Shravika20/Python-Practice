@@ -71,6 +71,7 @@ To improve programming skills and build a strong foundation in Python.
 ### File Handling
 - Write to File
 - Read from File
+- Word Frequency Counter
 ### Searching
 - Linear Search
 - Binary Search
