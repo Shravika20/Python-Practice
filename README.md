@@ -59,6 +59,7 @@ To improve programming skills and build a strong foundation in Python.
 ### Dictionaries
 - Dictionary Demo
 - Student Marks Management
+- Contact Book using Dictionary
 ### Sets
 - Set Demo
 - Basic Set Operations
