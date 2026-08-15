@@ -5,27 +5,27 @@ while True:
     print("2. Search Contact")
     print("3. Display All Contacts")
     print("4. Exit")
-    choice = int(input("Enter your choice: "))
-    if choice == 1:
+    choice = input("Enter your choice: ")
+    if choice == "1":
         name = input("Enter contact name: ")
         phone = input("Enter phone number: ")
-        contacts[name] = Phone
+        contacts[name] = phone
         print("Contact added successfully!")
-    elif choice == 2:
+    elif choice == "2":
         name = input("Enter name to search: ")
         if name in contacts:
             print("Phone Number:", contacts[name])
         else:
             print("Contact not found.")
-    elif choice == 3:
-        if len(contacts) == 0:
+    elif choice == "3":
+        if not contacts:
             print("No contacts available.")
         else:
             print("\nContacts:")
             for name, phone in contacts.items():
                 print(name, ":", phone)
-    elif choice == 4:
+    elif choice == "4":
         print("Exiting Contact Book...")
         break
     else:
-        print("Invalid choice. Please try again.")
+        print("Invalid choice. Please enter 1-4.")
