@@ -50,6 +50,7 @@ To improve programming skills and build a strong foundation in Python.
 - Calculator Using Functions
 - Maximum Number Using Function
 - Factorial Using Function
+- Student Grade Calculator
 ### Lists
 - Largest Element in a List
 - Sum of List Elements
