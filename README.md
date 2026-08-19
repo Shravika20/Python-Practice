@@ -55,6 +55,7 @@ To improve programming skills and build a strong foundation in Python.
 - Largest Element in a List
 - Sum of List Elements
 - Remove Duplicate Elements from a List
+- Expense Tracker program
 ### Tuples
 - Tuple Demo
 ### Dictionaries
