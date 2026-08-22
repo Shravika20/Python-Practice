@@ -51,12 +51,12 @@ To improve programming skills and build a strong foundation in Python.
 - Maximum Number Using Function
 - Factorial Using Function
 - Student Grade Calculator
+- Password Generator program
 ### Lists
 - Largest Element in a List
 - Sum of List Elements
 - Remove Duplicate Elements from a List
 - Expense Tracker program
-- Password Generator program
 ### Tuples
 - Tuple Demo
 ### Dictionaries
