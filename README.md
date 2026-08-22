@@ -56,6 +56,7 @@ To improve programming skills and build a strong foundation in Python.
 - Sum of List Elements
 - Remove Duplicate Elements from a List
 - Expense Tracker program
+- Password Generator program
 ### Tuples
 - Tuple Demo
 ### Dictionaries
