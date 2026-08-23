@@ -76,6 +76,7 @@ To improve programming skills and build a strong foundation in Python.
 - Write to File
 - Read from File
 - Word Frequency Counter
+Todo list program
 ### Searching
 - Linear Search
 - Binary Search
